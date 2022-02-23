@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full answer to Dr. Tenison's conferences concerning the Eucharist</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40605</idno>
+            <idno type="STC">Wing F2341</idno>
+            <idno type="STC">ESTC R11371</idno>
+            <idno type="EEBO-CITATION">13791515</idno>
+            <idno type="OCLC">ocm 13791515</idno>
+            <idno type="VID">101850</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40605)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101850)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 454:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full answer to Dr. Tenison's conferences concerning the Eucharist</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tenison, Thomas, 1636-1715.</term>
+               <term>Lord's Supper --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:101850:1"/>
+            <head>A Full Anſwer to Dr. <hi>Teniſons</hi> Conferences, concerning the EUCHARIST.</head>
+            <p>I Could not but wonder, whilſt I peruſed the Drs. Conferences, why he was pleaſed to term him<g ref="char:EOLhyphen"/>ſelf, rather the <hi>Publiſher,</hi> than <hi>Author</hi> of the Book. Some aſ<g ref="char:EOLhyphen"/>ſured me the Dr. was too wiſe, to think his Reader ſo fooliſh, as not to perceive he had borrowed matter from his Brethren, to ſwell his Pamphlet into fifteen ſheets; and indeed I my ſelf was ſoon convinced, that if any thing appear<g ref="char:EOLhyphen"/>ed new, it <hi>(pag. 26.) aroſe from a certain Air of Novelty, which might be in the man<g ref="char:EOLhyphen"/>ner of propoſing it;</hi> but then, why the Dr. ſhould engage himſelf in a new Con<g ref="char:EOLhyphen"/>ference, ſeeing that of <hi>Michaelmas</hi> proved ſo unſucceſsful; I underſtood not. But a friend very lucky in gueſſing told me, that the Dr. being in the laſt meeting, too weak to grapple with Five Jeſuits, Armed with Yellow Peruques, and little Bands, he was reſolved to venture the ſe<g ref="char:EOLhyphen"/>cond caſt, with <hi>N.</hi> alone, a Papiſt of his own Coyning; yet ſome are of opinion, that the Dr. turned Dialoger, to ſhew the World he could Complement a Papiſt, tho' the loſs of his Fathers Benefice gave him no Heart to uſe ſuch Ceremonies with a Jeſuit: now whether theſe Men have hit the Nail on the head, I know not, ſo that I will Appeal to the Dr. if he ſays, no, let him be aſſured, I ſhall not call him to the Bar.</p>
+            <p>I come to his Concluſions and Proofs. Firſt, then he affirms, <hi>(pag. 5.) that Tran<g ref="char:EOLhyphen"/>ſubſtantiation abſolutly deſtroys the certainty of our Senſes, which is the Foundation of the ſtrongeſt proofs of Chriſtianity.</hi>
+            </p>
+            <p>After ſome Complements with <hi>N.</hi> he comes to ſome Poſtulatas, of which ſome are falſe, others doubtful, and then pro<g ref="char:EOLhyphen"/>ceeds to three grand Concluſions as he terms them: The firſt is, that if <hi>(pag. 19.) Tranſubſtantiation were one of the Doctrins of Chriſtianity, Chriſtian Religion would be op<g ref="char:EOLhyphen"/>poſed with greater ſtrength, than Mr.</hi> Huet (or any one elſe) <hi>could bring forth to main<g ref="char:EOLhyphen"/>tain it;</hi> in effect, did <hi>Tranſubſtantiation make a part of Chriſtian Religion, one might oppoſe a<g ref="char:EOLhyphen"/>gainſt it, whatever is offered againſt Tranſub<g ref="char:EOLhyphen"/>ſtantiation,</hi> which are Phyſical Evidences, whereas the Evidences for Chriſtian Religi<g ref="char:EOLhyphen"/>on are only Moral ones.</p>
+            <p>I Confeſs poor <hi>N.</hi> is at a Non-plus, and therefore I think my ſelf obliged to help him. For my part, I am of opinion, the Drs. Argument even in his principles wounds as deep Chriſtianity, as in ours: I ſuppoſe he believes <hi>Abraham</hi> ſaw an Angel, and I am ſure the Dr. muſt grant his Senſes were all deceived, for had any perſon then preſent bid him: <hi>Ask your Eyes, ask your Noſe, ask your Hands, ask them Ten Thouſand times, the ſame queſtion; they will ever Anſwer you, what they have ever Anſwered thoſe, who have conſulted them in this matter,</hi> 'tis a Man you ſee: Now I ar<g ref="char:EOLhyphen"/>gue thus, if the belief of the Holy Scrip<g ref="char:EOLhyphen"/>tures <hi>(pag. 19.) be one of the Doctrins of Chriſtianity, Chriſtian Religion would be oppoſed with greater ſtrength, than the</hi> Dr. (or any one elſe) <hi>(ibid.) could bring forth to maintain it,</hi> becauſe did the belief of Holy Scriptures <hi>make a part of Chriſtian Re<g ref="char:EOLhyphen"/>ligion, one might oppoſe againſt it, whatever is offered againſt the belief of the Holy Scrip<g ref="char:EOLhyphen"/>tures;</hi> but more can be brought againſt the belief of Holy Scriptures, than the Dr. can <hi>bring</hi> to maintain Chriſtianity: <hi>Ergo.</hi> The Dr. cannot deny the <hi>Major</hi> without undermining his own Foundation: I prove therefore the <hi>Minor.</hi> No Inſidel can give aſſent to the Scripture, without believing all <hi>Abrahams</hi> Senſes were deceived; this he cannot do, unleſs he believes his own may be miſtaken; this in the Drs. Language is impoſſible: For the Arguments the Dr. can propoſe to an Inſidel to convince him of the truths of Chriſtianity <hi>(pag. 19.) are only grounded on a Moral Evidence, which is never half ſo great as that of Senſe:</hi> The Evidence which aſſures an Inſidel <hi>Abrahams</hi> Senſes (and by conſequence his own) could not be deceived, is grounded on Senſe, and he is <hi>(pag. 17.) more aſſured of what he does not know but by the Revelation of his Senſes,</hi> than of that which has the higheſt degree <hi>of Moral Evidence: (pag. 19.) Therefore if two be more than one 'tis clear, that granting the belief of Scripture, to be one of the Chri<g ref="char:EOLhyphen"/>ſtian Doctrins,</hi> Chriſtianity is attacked with <hi>greater ſtrength, than the Dr. can de<g ref="char:EOLhyphen"/>fend it with:</hi> Hence it is clear the Dart ſhot at Papiſts has rebounded on St. <hi>Mar<g ref="char:EOLhyphen"/>tins</hi> Church, and hit the Miniſter. If he pleaſe to Anſwer my Reply, he will ſee his firſt Objection fall to the ground as well as his other two, which therefore I ſhall not mention.</p>
+            <p>The Subject of the ſecond Conference is, that, <hi>(pa. 27.) Tranſubſtantiation diſcredi<g ref="char:EOLhyphen"/>ting the Teſtimony of our Senſes, does abſolute<g ref="char:EOLhyphen"/>ly overthrow the principal Reaſons, which con<g ref="char:EOLhyphen"/>firm the truth of Chriſtian Religion.</hi>
+            </p>
+            <p>The propoſition he proves thus. <hi>(pa. 29.) 1. If Tranſubſtantiation takes place, our Sen<g ref="char:EOLhyphen"/>ſes are deceived in taking for Bread and Wine, what is not ſo. 2. If our Senſes may be mi<g ref="char:EOLhyphen"/>ſtaken in the Euchariſt, they may be as well miſtaken in any thing elſe. 3. If our Senſes may be miſtaken in the diſcovery of their Ob<g ref="char:EOLhyphen"/>jects,
+<pb facs="tcp:101850:2"/> (be they what they will,) the proofs of Chriſtian Religion are of no value:</hi> I Anſwer as before. If the <hi>deceptio viſus</hi> of <hi>Abraham takes place,</hi> his <hi>Senſes were deceived in taking</hi> for a Man, him who was not ſo; if his <hi>Senſes might be miſtaken in the Angel, they might be as well miſtaken in every thing elſe; if his Senſes might be miſtaken in the diſcovery of their Objects (be they what they will) the proofs of Chriſtianity are of no value,</hi> becauſe as I told you before, an Infidel in the Drs. principles cannot believe <hi>Abrahams</hi> Senſes were deceived, without granting his own may be miſtaken; the Drs. Argument then proves too much, and therefore, according to good Philoſophy, nothing. The third Con<g ref="char:EOLhyphen"/>ference being but a repetition of the for<g ref="char:EOLhyphen"/>mer, I paſs it by; but becauſe the ſecond propoſition is the chief ground of the fourth and fifth Conference (and indeed of all the Book) in which the Dr. pretends to prove, that Tranſubſtantiation <hi>(pa. 60.) opens a gate to ſcepticiſm, in its full perfection, and eſpecially deſtroys the certainty of demon<g ref="char:EOLhyphen"/>ſtration;</hi> I will give it a full Anſwer, and then ſhall ſuppoſe I have performed my pro<g ref="char:EOLhyphen"/>miſe: The propoſition runs thus, <hi>(pa. 45.) if our Senſes deceive us in the report which they make of the Euchariſt, they may as well deceive us in every thing elſe.</hi> By the Drs. leave he is groſly miſtaken in the firſt Rudiments of Logic, and therefore I will take the pains to teach him, how he ſhould have framed his Argument, if he intended to conclude any thing: <hi>If our Senſes deceive us in the re<g ref="char:EOLhyphen"/>port, which they make of the Euchariſt, they may as well deceive us in every thing elſe, in the ſame circumſtances:</hi> This without doubt his adverſary <hi>N.</hi> would have granted, and not thought, he had either baniſht the proofs of Chriſtianity out of the World, on brought Scepticiſm into it: but for a Dr. to argue from a particular to an univerſal, is to declare his own ignorance in Print. We Papiſts then ſay; when ever our Senſes repreſent us an Object as ſuch, unleſs there intervene a proof more prevalent, we may believe them; as alſo whenſoever our reaſon ſticks to a principle, as true, and is drawn away by a no more forcible Argument, we ought to conclude, it is ſo: but becauſe we have Divine Revelation, which is of a far greater force than either Senſe, or Reaſon, tho' my Senſe tells me, when I ſee a Con<g ref="char:EOLhyphen"/>ſecrated Hoſt, 'tis Bread; I muſt ſay, 'tis <hi>the Body of Chriſt:</hi> altho' my Reaſon aſſures me this principle is evident, that <hi>thoſe things which are the ſame with a mean, are the ſame with themſelves;</hi> I muſt Anſwer 'tis not ſo, becauſe God has told me there is a Trinity, which contradicts it. But now I conceive 'tis my duty to ſhew, that the Divine Reve<g ref="char:EOLhyphen"/>lation we have for <hi>Tranſubſtantiation</hi> is more prevalent, than the Evidence of Senſe, which oppoſes it. Let us come to our Infi<g ref="char:EOLhyphen"/>del, before I perſuade him to embrace Chri<g ref="char:EOLhyphen"/>ſtianity, we muſt agree there is one God; that this God is Infinite in every perfection, therefore that he ſees truths which we can<g ref="char:EOLhyphen"/>not underſtand; otherwiſe he would not be Infinit in Knowledg; that he can reveal thoſe truths; otherwiſe his Power would be limited; that he can oblige his Creatures to believe them; otherwiſe his Authority would not be Infinit: This a Heathen muſt grant becauſe 'tis as evident as that there is a God: then I would ask him, what evi<g ref="char:EOLhyphen"/>dence he required, to reſt convinced, that God revealed him the Myſtery of Tran<g ref="char:EOLhyphen"/>ſubſtantiation; he would without doubt require ſuch a one, as no Man could pru<g ref="char:EOLhyphen"/>dently call in Queſtion, ſuch as is all Moral Evidence, which added to the forementi<g ref="char:EOLhyphen"/>oned principles, is ſtronger than that of our Senſes, or Reaſon, which we know may be deceived: Now that this does not bring in Scepticiſm, nor deſtroy all demonſtrati<g ref="char:EOLhyphen"/>on, is evident, becauſe I am to follow the depoſition of my Senſes, the light of my Reaſon, where no Divine Revelation, which is a more prevalent Argument does oppoſe them: So that in other caſes I am as ſure I am not deceived, as that I have no Divine Revelation; we therefore firſt prove Divine Revelation, and then the poſſibility of the thing revealed, as for ex<g ref="char:EOLhyphen"/>ample, <hi>whatever God reveals is true; but God hath revealed Tranſubſtantiation; Ergo 'tis true:</hi> The Dr. goes on otherwiſe, What<g ref="char:EOLhyphen"/>ever (ſays he) is not true, God has not revealed; but the Doctrin of Tranſubſtan<g ref="char:EOLhyphen"/>tiation is not true, <hi>Ergo</hi> God has not re<g ref="char:EOLhyphen"/>vealed it: according to this method, he muſt firſt convince his Infidel Converts of all the ſtrange truths in the Scripture, for example that the World was Created of nothing, that God is one in Nature, three in perſons; that all the Sodomites Senſes were deceived, when they took the Angels for Young Men, <hi>&amp;c.</hi> believe me, the Phi<g ref="char:EOLhyphen"/>loſophers would not ſo eaſily aſſent to theſe truths, nor would they ever Anathematize their Books upon the Drs. Authority or Reaſon.</p>
+            <p>I muſt deſire thoſe who aſſiſt at the Drs. Pulpit heats againſt Popery, and Tranſub<g ref="char:EOLhyphen"/>ſtantiation, to examin whether his paſſion againſt both be not greater than his Rea<g ref="char:EOLhyphen"/>ſons, and whether they may in Conſcience tie their belief to the Authority of a Man, who undermines his own Religion, ſo Po<g ref="char:EOLhyphen"/>pery may be involved in the ruin; but God be thanked our Church is too ſtrong to wa<g ref="char:EOLhyphen"/>ver at the blaſts which flow from his mouth, and will Triumph, when perchance the Dr. may ſmart for having attempted it's deſtruction.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's Moſt Excellent Majeſty for His Houſhold and Chappel; And are to be ſold at his Printing-houſe on the Ditch-ſide in <hi>Black-Fryers.</hi> 1687.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
